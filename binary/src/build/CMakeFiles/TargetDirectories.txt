@@ -1,0 +1,3 @@
+/home/darkroos/Aburrimiento/binary/src/build/CMakeFiles/rebuild_cache.dir
+/home/darkroos/Aburrimiento/binary/src/build/CMakeFiles/edit_cache.dir
+/home/darkroos/Aburrimiento/binary/src/build/CMakeFiles/program.dir
