@@ -18,7 +18,7 @@ long double suma_harmonica(int interaciones) {
   long double resultado{0};
   int i{1};
   while (i <= interaciones) {
-    resultado += (1.0 / static_cast<float>(i));
+    resultado += (1.0 / i);
     ++i;
   }
   return resultado;

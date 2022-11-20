@@ -20,9 +20,7 @@
 int main() {
   int a;
   std::cin >> a;
-
   std::cout << std::fixed << std::setprecision(4) << suma_harmonica(a)
             << std::endl;
-
   return 0;
 }

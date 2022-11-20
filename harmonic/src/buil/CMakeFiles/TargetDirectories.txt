@@ -1,0 +1,3 @@
+/home/darkroos/Aburrimiento/harmonic/src/buil/CMakeFiles/rebuild_cache.dir
+/home/darkroos/Aburrimiento/harmonic/src/buil/CMakeFiles/edit_cache.dir
+/home/darkroos/Aburrimiento/harmonic/src/buil/CMakeFiles/program.dir

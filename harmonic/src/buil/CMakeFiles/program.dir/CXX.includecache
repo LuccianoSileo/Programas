@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/darkroos/Aburrimiento/harmonic/src/main.cc
+iomanip
+-
+iostream
+-
+tools.h
+/home/darkroos/Aburrimiento/harmonic/src/tools.h
+
+/home/darkroos/Aburrimiento/harmonic/src/tools.cc
+iostream
+-
+
+/home/darkroos/Aburrimiento/harmonic/src/tools.h
+iostream
+-
+

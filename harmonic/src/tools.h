@@ -14,4 +14,4 @@
 
 #include <iostream>
 
-float suma_harmonica(int interaciones);
+long double suma_harmonica(int interaciones);
