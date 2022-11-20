@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/program.dir/main.cc.o CMakeFiles/program.dir/tools.cc.o -o program 
