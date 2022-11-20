@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/darkroos/Aburrimiento/hexadecimal/src/main.cc
+iostream
+-
+tools.h
+/home/darkroos/Aburrimiento/hexadecimal/src/tools.h
+
+/home/darkroos/Aburrimiento/hexadecimal/src/tools.h
+iostream
+-
+
