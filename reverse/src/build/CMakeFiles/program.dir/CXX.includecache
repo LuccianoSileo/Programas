@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/darkroos/Aburrimiento/reverse/src/main.cc
+bits/stdc++.h
+-
+iostream
+-
+string
+-
+tools.h
+/home/darkroos/Aburrimiento/reverse/src/tools.h
+
+/home/darkroos/Aburrimiento/reverse/src/tools.cc
+bits/stdc++.h
+-
+iostream
+-
+string
+-
+
+/home/darkroos/Aburrimiento/reverse/src/tools.h
+iostream
+-
+
