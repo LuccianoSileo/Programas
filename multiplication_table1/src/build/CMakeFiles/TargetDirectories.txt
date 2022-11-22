@@ -1,3 +1,0 @@
-/home/darkroos/Escritorio/Informática/IB/jutge1/multiplication_table1/src/build/CMakeFiles/program.dir
-/home/darkroos/Escritorio/Informática/IB/jutge1/multiplication_table1/src/build/CMakeFiles/edit_cache.dir
-/home/darkroos/Escritorio/Informática/IB/jutge1/multiplication_table1/src/build/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-/home/darkroos/Aburrimiento/hexadecimal/src/build/CMakeFiles/rebuild_cache.dir
-/home/darkroos/Aburrimiento/hexadecimal/src/build/CMakeFiles/edit_cache.dir
-/home/darkroos/Aburrimiento/hexadecimal/src/build/CMakeFiles/program.dir

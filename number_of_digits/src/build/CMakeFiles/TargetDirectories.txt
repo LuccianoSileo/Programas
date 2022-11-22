@@ -1,3 +1,0 @@
-/home/usuario/Programas/number_of_digits/src/build/CMakeFiles/rebuild_cache.dir
-/home/usuario/Programas/number_of_digits/src/build/CMakeFiles/edit_cache.dir
-/home/usuario/Programas/number_of_digits/src/build/CMakeFiles/program.dir

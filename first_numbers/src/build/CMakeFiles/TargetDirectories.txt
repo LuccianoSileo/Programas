@@ -1,3 +1,0 @@
-/home/darkroos/Escritorio/Informática/IB/jutge1/first_numbers/src/build/CMakeFiles/program.dir
-/home/darkroos/Escritorio/Informática/IB/jutge1/first_numbers/src/build/CMakeFiles/edit_cache.dir
-/home/darkroos/Escritorio/Informática/IB/jutge1/first_numbers/src/build/CMakeFiles/rebuild_cache.dir

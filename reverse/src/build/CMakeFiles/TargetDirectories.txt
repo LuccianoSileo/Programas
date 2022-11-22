@@ -1,3 +1,0 @@
-/home/darkroos/Aburrimiento/reverse/src/build/CMakeFiles/rebuild_cache.dir
-/home/darkroos/Aburrimiento/reverse/src/build/CMakeFiles/edit_cache.dir
-/home/darkroos/Aburrimiento/reverse/src/build/CMakeFiles/program.dir
