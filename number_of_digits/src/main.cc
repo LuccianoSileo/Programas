@@ -19,7 +19,6 @@
 int main() {
   int a;
   std::cin >> a;
-  std::cout << "caca" << std::endl;
   std::cout << "The number of digits of " << a << " is " << counter(a) << ".\n";
   return 0;
 }
